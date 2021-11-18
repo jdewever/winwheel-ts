@@ -1,7 +1,7 @@
 {
   "name": "winwheel-ts",
   "version": "0.1.0",
-  "main": "./lib/Winwheel.ts",
+  "main": ".src/lib/Winwheel.ts",
   "author": "Jonas De Wever <dev@jonasdewever.xyz>",
   "license": "MIT",
   "dependencies": {
