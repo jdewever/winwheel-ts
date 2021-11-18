@@ -4,5 +4,10 @@
   "main": "./lib/Winwheel.ts",
   "author": "Jonas De Wever <dev@jonasdewever.xyz>",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "gsap": "^3.8.0"
+  },
+  "devDependencies": {
+    "@types/gsap": "^3.0.0"
+  }
 }
